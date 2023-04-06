@@ -34,8 +34,6 @@ scikit-learn
 Usage
 To run the project, simply clone the repository and run the main.py file. The script will preprocess the data, perform feature engineering, train the machine learning model, and evaluate its performance on the test set. The predicted trip durations for the test set will also be saved in a CSV file.
 
-python
-Copy code
-python main.py
 Conclusion
+
 By predicting the total ride duration of taxi trips in New York City, this project can be helpful for both taxi drivers and passengers to estimate trip durations and plan their schedules accordingly. The machine learning model can be further improved by including additional features or using more advanced algorithms.
