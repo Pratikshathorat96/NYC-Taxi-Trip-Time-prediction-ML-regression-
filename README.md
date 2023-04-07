@@ -7,6 +7,7 @@ Project Goal
 The goal of this project is to build a machine learning model that can accurately predict the total ride duration of taxi trips in New York City based on the given features. This can be useful for both taxi drivers and passengers to estimate the trip duration and plan their schedules accordingly.
 
 Dataset
+My drive link for dataset download - https://drive.google.com/file/d/1khjo_prBBzJEBLcipOl8pTMp9tZrVmz2/view?usp=sharing
 The dataset can be downloaded from Kaggle using the following link: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 It consists of two CSV files: train.csv and test.csv. The train.csv file contains the training data, which includes the actual trip durations. The test.csv file contains the test data, which does not include the trip durations and is used for model evaluation.
